@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/project/2022/11/16/test/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>英语论文写作</title>
-    <url>/project/2022/11/15/%E8%8B%B1%E8%AF%AD%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C/</url>
-    <content><![CDATA[<h1 id="课程要求"><a href="#课程要求" class="headerlink" title="课程要求"></a>课程要求</h1><h2 id="第一节课："><a href="#第一节课：" class="headerlink" title="第一节课："></a>第一节课：</h2>]]></content>
-  </entry>
-  <entry>
-    <title>建站记录</title>
-    <url>/project/2022/11/15/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<h1 id="建站记录"><a href="#建站记录" class="headerlink" title="建站记录"></a>建站记录</h1><ol>
-<li><p>折腾了半天</p>
+    <title>我的第一篇博客</title>
+    <url>/project/2022/11/16/md-1/</url>
+    <content><![CDATA[<h1 id="终于终于终于把自己的第一个博客网站搭起来了！！！"><a href="#终于终于终于把自己的第一个博客网站搭起来了！！！" class="headerlink" title="终于终于终于把自己的第一个博客网站搭起来了！！！"></a>终于终于终于把自己的第一个博客网站搭起来了！！！</h1><p><img src="https://raw.githubusercontent.com/LiwangZhang416/pic-repo/master/image-20221116210110967.png" alt="image-20221116210110967"></p>
+<p>小小的总结一下建站的整个过程（因为明天还有个ppt要讲&#x2F;(ㄒoㄒ)&#x2F;~~）</p>
+<ul>
+<li>本博客网站是基于Hexo + Next搭建起来的，整体还比较满意，后面会慢慢优化</li>
+<li>在搭建过程中遇到的困难主要在主题优化以及markdown图片上传上<ul>
+<li>主题优化比较头疼，因为网上关于这方面的教程很多，众说纷纭，所以总是遇到一些乱七八糟的错误</li>
+<li>markdown图片上传上用到了PicGo+Github+Typora（之前用的是MarkText，结果不支持直接截图复制的图片上传）</li>
+</ul>
 </li>
-<li><p>终于搞完了</p>
-</li>
-<li><p>哈哈哈哈</p>
-<p><img src="https://raw.githubusercontent.com/LiwangZhang416/pic-repo/master/image-20221116204537286.png" alt="image-20221116204537286"></p>
-</li>
-</ol>
+<li>后面会慢慢的把这个网站经营好的！！！😊</li>
+</ul>
+<p>目前遇到的困难大概是Github被强了，国内访问很慢┭┮﹏┭┮</p>
+<p>先不说了，要去补作业了，这篇博客写的不好，后面回来修改的！😘✨🎈🎊✈️</p>
 ]]></content>
       <categories>
-        <category>生活</category>
+        <category>随笔</category>
       </categories>
   </entry>
 </search>
