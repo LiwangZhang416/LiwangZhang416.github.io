@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>我的第一篇博客</title>
-    <url>/project/2022/11/16/md-1/</url>
-    <content><![CDATA[<h1 id="终于终于终于把自己的第一个博客网站搭起来了！！！"><a href="#终于终于终于把自己的第一个博客网站搭起来了！！！" class="headerlink" title="终于终于终于把自己的第一个博客网站搭起来了！！！"></a>终于终于终于把自己的第一个博客网站搭起来了！！！</h1><p><img src="https://raw.githubusercontent.com/LiwangZhang416/pic-repo/master/image-20221116210110967.png" alt="image-20221116210110967"></p>
-<p>小小的总结一下建站的整个过程（因为明天还有个ppt要讲&#x2F;(ㄒoㄒ)&#x2F;~~）</p>
-<ul>
-<li>本博客网站是基于Hexo + Next搭建起来的，整体还比较满意，后面会慢慢优化</li>
-<li>在搭建过程中遇到的困难主要在主题优化以及markdown图片上传上<ul>
-<li>主题优化比较头疼，因为网上关于这方面的教程很多，众说纷纭，所以总是遇到一些乱七八糟的错误</li>
-<li>markdown图片上传上用到了PicGo+Github+Typora（之前用的是MarkText，结果不支持直接截图复制的图片上传）</li>
-</ul>
-</li>
-<li>后面会慢慢的把这个网站经营好的！！！😊</li>
-</ul>
-<p>目前遇到的困难大概是Github被强了，国内访问很慢┭┮﹏┭┮</p>
-<p>先不说了，要去补作业了，这篇博客写的不好，后面回来修改的！😘✨🎈🎊✈️</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2022/11/16/md-1/"/>
+      <url>/2022/11/16/md-1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="终于终于终于把自己的第一个博客网站搭起来了！！！"><a href="#终于终于终于把自己的第一个博客网站搭起来了！！！" class="headerlink" title="终于终于终于把自己的第一个博客网站搭起来了！！！"></a>终于终于终于把自己的第一个博客网站搭起来了！！！</h1><p><img src="https://raw.githubusercontent.com/LiwangZhang416/pic-repo/master/image-20221116210110967.png" alt="image-20221116210110967"></p><p>小小的总结一下建站的整个过程（因为明天还有个ppt要讲&#x2F;(ㄒoㄒ)&#x2F;~~）</p><ul><li>本博客网站是基于Hexo + Next搭建起来的，整体还比较满意，后面会慢慢优化</li><li>在搭建过程中遇到的困难主要在主题优化以及markdown图片上传上<ul><li>主题优化比较头疼，因为网上关于这方面的教程很多，众说纷纭，所以总是遇到一些乱七八糟的错误</li><li>markdown图片上传上用到了PicGo+Github+Typora（之前用的是MarkText，结果不支持直接截图复制的图片上传）</li></ul></li><li>后面会慢慢的把这个网站经营好的！！！😊</li></ul><p>目前遇到的困难大概是Github被强了，国内访问很慢┭┮﹏┭┮</p><p>先不说了，要去补作业了，这篇博客写的不好，后面回来修改的！😘✨🎈🎊✈️</p>]]></content>
+      
+      
       <categories>
-        <category>随笔</category>
+          
+          <category> 随笔 </category>
+          
       </categories>
-  </entry>
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
