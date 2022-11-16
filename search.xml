@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>test</title>
+    <url>/project/2022/11/16/test/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>英语论文写作</title>
+    <url>/project/2022/11/15/%E8%8B%B1%E8%AF%AD%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C/</url>
+    <content><![CDATA[<h1 id="课程要求"><a href="#课程要求" class="headerlink" title="课程要求"></a>课程要求</h1><h2 id="第一节课："><a href="#第一节课：" class="headerlink" title="第一节课："></a>第一节课：</h2>]]></content>
+  </entry>
+  <entry>
     <title>建站记录</title>
     <url>/project/2022/11/15/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<h1 id="建站记录"><a href="#建站记录" class="headerlink" title="建站记录"></a>建站记录</h1><ol>
@@ -9,17 +19,12 @@
 <li><p>终于搞完了</p>
 </li>
 <li><p>哈哈哈哈</p>
+<p><img src="https://raw.githubusercontent.com/LiwangZhang416/pic-repo/master/image-20221116204537286.png" alt="image-20221116204537286"></p>
 </li>
-<li></li>
 </ol>
 ]]></content>
       <categories>
         <category>生活</category>
       </categories>
-  </entry>
-  <entry>
-    <title>英语论文写作</title>
-    <url>/project/2022/11/15/%E8%8B%B1%E8%AF%AD%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C/</url>
-    <content><![CDATA[<h1 id="课程要求"><a href="#课程要求" class="headerlink" title="课程要求"></a>课程要求</h1><h2 id="第一节课："><a href="#第一节课：" class="headerlink" title="第一节课："></a>第一节课：</h2>]]></content>
   </entry>
 </search>
