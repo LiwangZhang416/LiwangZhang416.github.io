@@ -16,6 +16,8 @@
 </ul>
 <p>目前遇到的困难大概是Github被强了，国内访问很慢┭┮﹏┭┮</p>
 <p>先不说了，要去补作业了，这篇博客写的不好，后面回来修改的！😘✨🎈🎊✈️</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function">include&lt;iostream&gt;</span></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">(<span class="type">void</span>)</span></span>&#123;</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;hello my blog site!&quot;</span>)</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
 ]]></content>
       <categories>
         <category>随笔</category>
